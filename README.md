@@ -11,9 +11,8 @@ This project demonstrates **XML, XSD, and XSLT** by creating a music playlist da
 1. Open `data/playlist.xml` in a browser (Chrome, Firefox, or Edge).  
 2. The XSLT file will automatically format the XML into a table of users, playlists, and songs.
 
-<pre> ## Folder Structure ``` music-playlist/ ├─ data/ │ └─ playlist.xml ├─ schema/ │ └─ playlist.xsd ├─ transform/ │ └─ playlist.xsl └─ README.md ``` </pre>
-
-
+## Folder Structure 
+``` music-playlist/ ├─ data/ │ └─ playlist.xml ├─ schema/ │ └─ playlist.xsd ├─ transform/ │ └─ playlist.xsl └─ README.md ```
 
 ## Features
 - Nested playlists for multiple users
