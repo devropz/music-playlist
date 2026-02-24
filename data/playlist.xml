@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../transform/playlists.xsl"?>
+<?xml-stylesheet type="text/xsl" href="../transform/playlist.xsl"?>
 <users>
     <user id="u1">
         <name>Devany</name>
